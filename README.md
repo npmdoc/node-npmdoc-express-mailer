@@ -1,6 +1,6 @@
 # npmdoc-express-mailer
 
-#### api documentation for  [express-mailer (v0.3.1)](https://github.com/RGBboy/express-mailer)  [![npm package](https://img.shields.io/npm/v/npmdoc-express-mailer.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-express-mailer) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-express-mailer.svg)](https://travis-ci.org/npmdoc/node-npmdoc-express-mailer)
+#### basic api documentation for  [express-mailer (v0.3.1)](https://github.com/RGBboy/express-mailer)  [![npm package](https://img.shields.io/npm/v/npmdoc-express-mailer.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-express-mailer) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-express-mailer.svg)](https://travis-ci.org/npmdoc/node-npmdoc-express-mailer)
 
 #### Send Emails from your express application
 
